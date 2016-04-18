@@ -32,7 +32,7 @@ Put your graphs here and explain.
 
 When the y0 is 0.1 , y1 is 1.0 
 
-![](Population vs Time 1.png)
+![](Population vs Time_1.png)
 
 ![](Predator vs Prey_1.png)
 
