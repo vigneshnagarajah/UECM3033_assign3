@@ -32,16 +32,16 @@ Put your graphs here and explain.
 
 When the y0 is 0.1 , y1 is 1.0 
 
-Population vs Time_1.png
+![](Population vs Time 1.png)
 
-Predator vs Prey_1.png
+![](Predator vs Prey_1.png)
 
 
 When the y0 is 0.11 , y1 is 1.0
 
-Population vs Time_2.png
+![](Population vs Time_2.png)
 
-Predator vs Prey_2.png
+![](Predator vs Prey_2.png)
 
 From the graphs shown above,when there is a change in the initial condition y0 occurred,there is small difference occurred in the output as well .Apart from that ,the number of prey appeared to be the lowest when the the number of predator is the highest which clearly shows that there is an inverse relationship between the prey and predator. So, when the time increase, the prey will increase accordingly while there is a decrease in predators
 
