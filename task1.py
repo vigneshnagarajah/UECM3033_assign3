@@ -1,13 +1,19 @@
 import numpy as np
 import sympy as sy
-#Your optional code here
-#You can import some modules or create additional functions
+import numpy.polynomial.legendre as npl
+
 
 # DO NOT CHANGE THE NAME OF gausslegendre() function
 def gausslegendre(f, a, b, n=20):
     ans = 0
-    # Edit here to implement your code
-
+    
+    x, w = npl.leggauss(n)
+    t=0.5*(x+1)*(b-a)+a
+    
+    
+    ans=sum(w*f(t))*0.5*(b-a)
+    
+    
     return ans
 
 if __name__ == "__main__":
